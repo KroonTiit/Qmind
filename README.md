@@ -1,3 +1,5 @@
+The assignement was to make a web application that showed a map that has animated marker on it. The main direction was to show "Activety".
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 To run this project you need to have Node.js installed(https://nodejs.org/en/download/) in order to have access to npm commands.
